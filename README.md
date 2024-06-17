@@ -1,3 +1,5 @@
 # CODSOFT
-This my codsoft repository.Author-Gauri Barate
+This my codsoft repository.
+<br/>
+Author-Gauri Barate
 
